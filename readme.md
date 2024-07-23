@@ -8,11 +8,11 @@ Steps:
 
 #### 1. Fork the repository
 
-See [the official docs]() if you need help.
+See [the official docs](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#forking-a-repository) if you need help.
 
 #### 2. Clone your fork 
 
-Get the url from [your fork's main page](), then in your terminal type `git clone your-fork-url`.
+Get the url from your fork's main page (see [github docs](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#cloning-your-forked-repository)), then in your terminal type `git clone your-fork-url`.
 
 #### 3. add a remote to the upstream repository 
 
